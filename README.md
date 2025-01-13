@@ -30,7 +30,7 @@ Aktualnie jestem studentem trzeciego roku na Uniwersytecie Warmińsko-Mazurskim 
 
 ---
 
-Zapraszam do zapoznania się z moimi repozytoriami! 🚀
+
 #
 
 <!--
