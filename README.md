@@ -21,7 +21,10 @@ Aktualnie jestem studentem trzeciego roku na Uniwersytecie Warmińsko-Mazurskim 
 
 ### 🌟 Moje statystyki GitHub:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielrudzinski&show_icons=true&theme=radical)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRudzinski&layout=compact&theme=radical)
 
