@@ -12,7 +12,7 @@ Aktualnie jestem studentem trzeciego roku na Uniwersytecie Warmińsko-Mazurskim 
 - Java ☕
 
 #### **Frameworki i biblioteki:**
-- Spring (Spring Boot, Spring Data, Spring Security)
+- Spring (Spring Boot, Spring Data, Spring Web)
 
 #### **Bazy danych:**
 - MySQL
