@@ -30,7 +30,7 @@ Aktualnie jestem studentem Informatyki na trzecim roku na Uniwersytecie Warmińs
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRudzinski&layout=compact&theme=radical)
+
 
 ---
 
