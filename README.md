@@ -2,6 +2,8 @@
  Cześć! 👋
 
 Jestem Daniel i pasjonuję się programowaniem oraz tworzeniem nowoczesnych aplikacji. 🖥️✨
+
+
 Aktualnie jestem studentem trzeciego roku na Uniwersytecie Warmińsko-Mazurskim 📚📚
 
 ---
