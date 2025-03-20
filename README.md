@@ -18,6 +18,7 @@ Aktualnie jestem studentem Informatyki na trzecim roku na Uniwersytecie Warmińs
 
 #### **Bazy danych:**
 - MySQL
+- PostgreSQL
 
 ---
 
