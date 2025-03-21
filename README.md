@@ -15,6 +15,9 @@ Aktualnie jestem studentem Informatyki na trzecim roku na Uniwersytecie Warmińs
 
 #### **Frameworki i biblioteki:**
 - Spring (Spring Boot, Spring Data, Spring Web)
+- Lombok
+- JUnit
+- Mockito
 
 #### **Bazy danych:**
 - MySQL
