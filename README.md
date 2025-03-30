@@ -1,26 +1,27 @@
+ Cześć! 👋
 
-Hi there! 👋
-I'm Daniel, and I'm passionate about programming and building modern applications. 🖥️✨
+Jestem Daniel i pasjonuję się programowaniem oraz tworzeniem nowoczesnych aplikacji. 🖥️✨
 
-Currently, I'm a third-year Computer Science student at the University of Warmia and Mazury 📚📚
 
-🛠 Technologies and Tools I Work With:
-Programming Languages:
-Java ☕
+Aktualnie jestem studentem Informatyki na trzecim roku na Uniwersytecie Warmińsko-Mazurskim 📚📚
 
-Frameworks and Libraries:
-Spring (Spring Boot, Spring Data, Spring Web)
+---
 
-Lombok
+### 🛠 Technologie i narzędzia, które znam:
 
-JUnit
+#### **Języki programowania:**
+- Java ☕
 
-Mockito
+#### **Frameworki i biblioteki:**
+- Spring (Spring Boot, Spring Data, Spring Web)
+- Lombok
+- JUnit
+- Mockito
 
-Databases:
-MySQL
+#### **Bazy danych:**
+- MySQL
+- PostgreSQL
 
-PostgreSQL
 ---
 
 ### 🌟 
@@ -30,27 +31,3 @@ PostgreSQL
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" alt="PostgreSQL Badge" />
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA Badge" />
-
-
-
-
-
----
-
-
-#
-
-<!--
-**danielrudzinski/danielrudzinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
