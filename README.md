@@ -1,28 +1,26 @@
 
- Cześć! 👋
+Hi there! 👋
+I'm Daniel, and I'm passionate about programming and building modern applications. 🖥️✨
 
-Jestem Daniel i pasjonuję się programowaniem oraz tworzeniem nowoczesnych aplikacji. 🖥️✨
+Currently, I'm a third-year Computer Science student at the University of Warmia and Mazury 📚📚
 
+🛠 Technologies and Tools I Work With:
+Programming Languages:
+Java ☕
 
-Aktualnie jestem studentem Informatyki na trzecim roku na Uniwersytecie Warmińsko-Mazurskim 📚📚
+Frameworks and Libraries:
+Spring (Spring Boot, Spring Data, Spring Web)
 
----
+Lombok
 
-### 🛠 Technologie i narzędzia, które znam:
+JUnit
 
-#### **Języki programowania:**
-- Java ☕
+Mockito
 
-#### **Frameworki i biblioteki:**
-- Spring (Spring Boot, Spring Data, Spring Web)
-- Lombok
-- JUnit
-- Mockito
+Databases:
+MySQL
 
-#### **Bazy danych:**
-- MySQL
-- PostgreSQL
-
+PostgreSQL
 ---
 
 ### 🌟 
