@@ -1,7 +1,7 @@
 # Daniel 👨‍💻
 
 ## About Me
-Hi! I'm Daniel, a passionate third-year Computer Science student at the University of Warmia and Mazury who loves creating modern applications. 🖥️✨
+Hi! I'm Daniel, a passionate third-year Computer Science student at the University of Warmia and Mazury. 🖥️✨
 
 ## 🛠 Tech Stack
 
