@@ -11,13 +11,13 @@ I’m currently a third-year Computer Science student at the University of Warmi
 #### ** Programming Languages:**
 - Java ☕
 
-#### **Frameworks and Libraries:**
+#### **Frameworks and Libraries: **
 - Spring (Spring Boot, Spring Data, Spring Web)
 - Lombok
 - JUnit
 - Mockito
 
-#### ** Databases:**
+#### ** Databases: **
 - MySQL
 - PostgreSQL
 
