@@ -2,7 +2,8 @@ Hi! 👋
 
 I’m Daniel, and I’m passionate about programming and creating modern applications. 🖥️✨
 
-I’m currently a third-year Computer Science student at the University of Warmia and Mazuria 📚📚
+I’m currently a third-year Computer Science student at the University of Warmia and Mazury 📚📚
+
 ---
 
 ### 🛠  Technologies and tools I know:
