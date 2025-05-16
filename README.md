@@ -25,4 +25,4 @@ Hi! I'm Daniel, a passionate third-year Computer Science student at the Universi
 
 ---
 
-#### Currently expanding my knowledge in backend development with Spring ecosystem and database design! 🌱
+#### Currently expanding my knowledge in Unit Tests and Spring Security and learning Kotlin! 🌱
